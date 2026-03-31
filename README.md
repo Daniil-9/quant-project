@@ -12,7 +12,7 @@
 - Индексу Мосбиржи
 
 Источник данных:
-- finam
+- [finam](https://www.finam.ru/quote/moex/imoex/export/)
 
 ---
 
