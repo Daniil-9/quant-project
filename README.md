@@ -78,4 +78,4 @@
 
 ## 👤 Автор
 
-Daniil Potapov
+- Daniil Potapov
